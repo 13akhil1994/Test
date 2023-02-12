@@ -6,5 +6,6 @@ public class Test2 {
 		System.out.println("Junior test 2");
 		System.out.println("Junior test 3");
 		System.out.println("Junior test 5");
+		System.out.println("Junior test 8");
 	}
 }
