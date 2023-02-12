@@ -1,9 +1,9 @@
-package test;
+opackage test;
 
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("First test Git");
+		System.out.println("Second test Git");
 	}
 
 }
